@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm **Shubhroto Dutta**, an aspiring Software Developer passionate about building responsive and user-friendly applications.<br><br>🌱 Currently learning and improving my skills in software and web development  <br>💻 Working with **Python, HTML, CSS, JavaScript, SQL, Spring Boot, Git & GitHub**  <br>🚀 Interested in **Web Development, Software Development, AI, and emerging technologies**  <br>🎓 Pursuing my Bachelor's degree at **Amity University** | Expected Graduation: **2027**  <br>🧠 Quick learner, problem solver, and always eager to explore new technologies  <br>📫 Open to learning, collaboration, internship and job opportunities
+## <br>Hi! I'm **Shubhroto Dutta**, an aspiring Software Developer passionate about building responsive and user-friendly applications.<br><br>🌱 Currently learning and improving my skills in software and web development  <br>💻 Working with **Python, HTML, CSS, JavaScript, SQL, Spring Boot, Git & GitHub**  <br>🚀 Interested in **Web Development, Software Development, AI, and emerging technologies**  <br>🎓 Pursuing my Bachelor's degree at **Amity University** | Expected Graduation: **2027**  <br>🧠 Quick learner, problem solver, and always eager to explore new technologies  <br>📫 Open to learning, collaboration, internship and job opportunities
 
 
 ## 🌐 Socials:
